@@ -103,7 +103,7 @@
 				}
 			],
 			"request": {
-				"url": "{{url}}/api/organization/Providers?providerId=6837e0f4-a4d9-4e00-8597-8e55ca692db3&configuration={    }",
+				"url": "{{url}}/api/organization/Providers?providerId=dff91acd-0eab-4f6a-bd3b-55f2068dcb3f&configuration={    }",
 				"method": "POST",
 				"header": [
 					{
